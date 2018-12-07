@@ -1,0 +1,11 @@
+//= require_tree ../../../vendor/assets/stylesheets/.
+//= require_self
+//  = require dataTables/bootstrap/3/jquery.dataTables.bootstrap
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome";
+@import 'ionicons';
+@import 'icheck/square/blue';
+@import 'icheck/square/green';
